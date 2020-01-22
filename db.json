@@ -1,8 +1,11 @@
 {
-"getOneRoom":[
-    "roomId":1,
-    "roomName":"A3",
-    "color":"#00FF00",
-    "remark":"5人會議室"
-]
+    "getOneRoom":[
+        {
+        "roomId":1,
+        "roomName":"A3",
+        "color":"#00FF00",
+        "remark":"5人會議室"
+        }
+    ]
+    
 }
